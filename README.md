@@ -1,3 +1,20 @@
+
+![Screenshot 2025-05-20 182010](https://github.com/user-attachments/assets/2792e16f-be62-495a-89b0-71fc4b84d2ca)
+
+![Screenshot 2025-05-20 182023](https://github.com/user-attachments/assets/6be92fbd-72af-4c9a-bfb2-967d3d3a96ac)
+
+![Screenshot 2025-05-20 182509](https://github.com/user-attachments/assets/6abf5734-3e92-462e-8039-4388918acbe8)
+
+![Screenshot 2025-05-20 182531](https://github.com/user-attachments/assets/5310f4ae-92aa-415e-9e81-7ec6e2f19aa7)
+
+![screencapture-127-0-0-1-8000-profile-2025-05-20-18_26_29](https://github.com/user-attachments/assets/4b518ce9-c4a0-4856-b418-b136b476488f)
+
+![Screenshot 2025-05-20 182712](https://github.com/user-attachments/assets/b7eb6fa7-f830-4b66-bcbf-5e470c87d82a)
+
+
+![Screenshot 2025-05-20 182725](https://github.com/user-attachments/assets/1b046aba-4394-4a7b-8cc0-f2aea2ba2482)![Screenshot 2025-05-20 182747](https://github.com/user-attachments/assets/981a7e3c-ba99-40d4-9607-bd8c94d7efee)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
